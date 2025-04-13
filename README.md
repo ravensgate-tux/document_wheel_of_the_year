@@ -20,6 +20,7 @@
 - **対応カード**：The Lovers（恋人たち）
 - **象徴テーマ**：情熱、官能、選択、結合
 - 📜 *儀式：近日追加予定*
+- [`beltaine_ritual.md`](../beltaine_ritual/README.md) を参照してください。
 
 <img src="wheel-of-the-year_3.jpg" width="300">
 
