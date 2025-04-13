@@ -3,6 +3,8 @@
 このドキュメントは、RavensgateにおけるWheel of the Year（年の車輪）の8つの祝祭と、Deviant Moon Tarotのカードとの象徴的な対応を示す一覧です。
 今後それぞれの祝祭に対応した儀式や内的ワークのプロトコルを追加していく予定です。
 
+<img src="wheel-of-the-year.png" width="300">
+
 ---
 
 ## 🌟 Ostara（春分）
