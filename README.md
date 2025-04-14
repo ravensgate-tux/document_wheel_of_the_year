@@ -74,7 +74,7 @@
 ---
 
 ## 🔗 関連文書（予定）
-- `rituals/beltaine.md`：Beltaineの儀式プロトコル（作成予定）
+- `beltaine.md`：Beltaineの儀式プロトコル[🔗 beltaine ritual.md](https://github.com/ravensgate-tux/beltaine_ritual/blob/main/README.md)
 - `rituals/samhain.md`：死と再生のワーク（作成予定）
 - `temples/bookshelf-temple.md`：Deviant Moonの神殿化（作成済み）
 - `calendar/japanese-modern-festivals.md`：現代日本生活への応用案
