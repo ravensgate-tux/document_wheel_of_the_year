@@ -76,7 +76,7 @@
 ## 🔗 関連文書（予定）
 - `beltaine.md`：Beltaineの儀式プロトコル[🔗 beltaine ritual.md](https://github.com/ravensgate-tux/beltaine_ritual/blob/main/README.md)
 - `bookshelf-temple.md`：本棚神殿の作り方[🔗 bookshelf-temple.md](https://github.com/ravensgate-tux/bookshelf-temple/blob/main/README.md)
-- `hekate-tarot-ritual.md`：タロットの聖別儀式[🔗 hekate-tarot-ritual.md](https://github.com/ravensgate-tux/hekate-tarot-rituak/blob/main/README.md)
+- `hekate-tarot-ritual.md`：タロットの聖別儀式[🔗 hekate-tarot-ritual.md](https://github.com/ravensgate-tux/hekate-tarot-ritual/blob/main/README.md)
 - `rituals/samhain.md`：死と再生のワーク（作成予定）
 - `calendar/japanese-modern-festivals.md`：現代日本生活への応用案
 
