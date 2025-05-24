@@ -5,6 +5,14 @@
 
 <img src="wheel-of-the-year.png" width="800">
 
+<div align="left">
+ <img src="wheel-of-the-year.jpeg" width="500">
+</div>
+<br>
+
+画像出典：Julian Vayne & Steve Dee, *Chaos Craft*（2018）より引用。図版は教育的・研究目的での紹介のために使用。
+Image credit: Julian Vayne & Steve Dee, *Chaos Craft* (2018). Used here for educational and research purposes under fair use/fair dealing.
+
 ---
 
 ## 🌟 Ostara（春分）
