@@ -27,7 +27,7 @@ Image credit: Julian Vayne & Steve Dee, *Chaos Craft* (2018). Used here for educ
 - **日付**：4月30日〜5月1日
 - **対応カード**：The Lovers（恋人たち）
 - **象徴テーマ**：情熱、官能、選択、結合
-- 📜 *儀式：[🔗 beltaine ritual.md](https://github.com/ravensgate-tux/beltaine_ritual/blob/main/README.md)
+- 📜 *儀式：[🔗 ベルテイン祝祭儀式](https://github.com/ravensgate-tux/beltaine_ritual/blob/main/README.md)
 
 <img src="wheel-of-the-year_3.jpg" width="300">
 
@@ -35,7 +35,7 @@ Image credit: Julian Vayne & Steve Dee, *Chaos Craft* (2018). Used here for educ
 - **日付**：6月20日〜23日頃
 - **対応カード**：The Sun（太陽）
 - **象徴テーマ**：栄光、完成、自己の輝き
-- 📜 *儀式：近日追加予定*
+- 📜 *儀式：[🔗 夏至の祝祭儀式](https://github.com/ravensgate-tux/summer_solstice/blob/main/README.md)
 
 <img src="wheel-of-the-year_4.jpg" width="300">
 
